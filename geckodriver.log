@@ -1,0 +1,657 @@
+1614536154237	geckodriver	INFO	Listening on 127.0.0.1:62652
+1614536157316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileHcSLwz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614536159878	Marionette	INFO	Listening on port 62660
+1614536159994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3877: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3983: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4008: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4033: ReferenceError: fmt is not defined
+1614536172128	Marionette	INFO	Stopped listening on port 62660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614536199056	geckodriver	INFO	Listening on 127.0.0.1:62722
+1614536202075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilelNmMEE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614536204689	Marionette	INFO	Listening on port 62730
+1614536204763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3877: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3983: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4008: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4033: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3877: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3983: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4008: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4033: ReferenceError: fmt is not defined
+JavaScript error: https://pythonspot.com/selenium-click-button/, line 352: ReferenceError: $ is not defined
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 14: Script terminated by timeout at:
+c.advance@https://code.createjs.com/1.0.0/createjs.min.js:14:28332
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28796
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28821
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+b.tick@https://code.createjs.com/1.0.0/createjs.min.js:13:14742
+b.update@https://code.createjs.com/1.0.0/createjs.min.js:13:26167
+b.handleEvent@https://code.createjs.com/1.0.0/createjs.min.js:13:14830
+b._dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:4075
+b._dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:4158
+b.dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:3479
+a._tick@https://code.createjs.com/1.0.0/createjs.min.js:12:7459
+a._handleTimeout@https://code.createjs.com/1.0.0/createjs.min.js:12:6772
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614537393382	Marionette	INFO	Stopped listening on port 62730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilehKfry1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614537365336	Marionette	INFO	Listening on port 63240
+1614537365385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3871: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3977: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4002: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4027: ReferenceError: fmt is not defined
+1614537379781	Marionette	INFO	Stopped listening on port 63240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614537431155	geckodriver	INFO	Listening on 127.0.0.1:63298
+1614537434202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileJnD2Og"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614537436539	Marionette	INFO	Listening on port 63306
+1614537436887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3871: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3977: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4002: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4027: ReferenceError: fmt is not defined
+1614537458662	Marionette	INFO	Stopped listening on port 63306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614537469052	geckodriver	INFO	Listening on 127.0.0.1:63364
+1614537472127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileaqXAed"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614537474703	Marionette	INFO	Listening on port 63372
+1614537474827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3871: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3977: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4002: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4027: ReferenceError: fmt is not defined
+1614537496898	Marionette	INFO	Stopped listening on port 63372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614537875626	geckodriver	INFO	Listening on 127.0.0.1:63540
+1614537878698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileiWU4Ub"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614537881266	Marionette	INFO	Listening on port 63549
+1614537881362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3873: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3979: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4004: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4029: ReferenceError: fmt is not defined
+1614537896603	Marionette	INFO	Stopped listening on port 63549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614537961236	geckodriver	INFO	Listening on 127.0.0.1:63692
+1614537964311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilezlOkrW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614537966733	Marionette	INFO	Listening on port 63702
+1614537967000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3873: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3979: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4004: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4029: ReferenceError: fmt is not defined
+1614539332583	Marionette	INFO	Stopped listening on port 63702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileo16QJR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614538028053	Marionette	INFO	Listening on port 63798
+1614538028185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3873: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3979: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4004: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4029: ReferenceError: fmt is not defined
+1614538042809	Marionette	INFO	Stopped listening on port 63798
+1614538063349	geckodriver	INFO	Listening on 127.0.0.1:63871
+1614538066423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileLE8sbU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614538069172	Marionette	INFO	Listening on port 63881
+1614538069612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3873: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3979: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4004: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4029: ReferenceError: fmt is not defined
+1614538078259	Marionette	INFO	Stopped listening on port 63881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614538568734	geckodriver	INFO	Listening on 127.0.0.1:64261
+1614538571793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilebzOLZL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614538574394	Marionette	INFO	Listening on port 64270
+1614538574488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3873: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3979: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4004: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4029: ReferenceError: fmt is not defined
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:957:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:957:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: https://vap.expedia.com/vac/2.6.16/vacLogger.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 64: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 64: asm.js type error: cannot create array view without an asm.js heap parameter
+1614539183360	Marionette	INFO	Stopped listening on port 64270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614539547366	geckodriver	INFO	Listening on 127.0.0.1:64837
+1614539550449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilebYMn4J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614539552983	Marionette	INFO	Listening on port 64845
+1614539553131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/, line 18: TypeError: document.getElementById(...) is null
+JavaScript error: https://phptravels.net/, line 962: SyntaxError: missing ) after argument list
+JavaScript warning: https://phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://phptravels.net/, line 3871: SyntaxError: expected expression, got ','
+JavaScript error: https://phptravels.net/, line 3977: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4002: ReferenceError: fmt is not defined
+JavaScript error: https://phptravels.net/, line 4027: ReferenceError: fmt is not defined
+1614539622978	Marionette	INFO	Stopped listening on port 64845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614540373874	geckodriver	INFO	Listening on 127.0.0.1:65076
+1614540376901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileDwE7p7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614540379649	Marionette	INFO	Listening on port 65084
+1614540380131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/deals/deals-under-99?utm_source=bing&utm_medium=ppc&competitor_bcff&utm_source=bing&utm_medium=ppc&utm_campaign=Competitor_Desktop&adgroup=&msclkid=2f0acbd3cc9b1b3bbbedabe821121212, line 1255: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.cheapflightsfares.com/deals/deals-under-99?utm_source=bing&utm_medium=ppc&competitor_bcff&utm_source=bing&utm_medium=ppc&utm_campaign=Competitor_Desktop&adgroup=&msclkid=2f0acbd3cc9b1b3bbbedabe821121212, line 1268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+JavaScript error: https://www.cheapflightsfares.com/resources/js/home_index.js?012323, line 211: TypeError: location.results[0] is undefined
+1614540693290	Marionette	INFO	Stopped listening on port 65084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rt 65268
+1614540609407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/deals/deals-under-99?utm_source=bing&utm_medium=ppc&competitor_bcff&utm_source=bing&utm_medium=ppc&utm_campaign=Competitor_Desktop&adgroup=&msclkid=2f0acbd3cc9b1b3bbbedabe821121212, line 1255: TypeError: document.getElementById(...) is null
+1614540616029	Marionette	INFO	Stopped listening on port 65268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614540712118	geckodriver	INFO	Listening on 127.0.0.1:65431
+1614540715161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileMncHvI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614540717935	Marionette	INFO	Listening on port 65439
+1614540718363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614540724938	Marionette	INFO	Stopped listening on port 65439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614543146633	geckodriver	INFO	Listening on 127.0.0.1:49519
+1614543149666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileKevhQJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614543152293	Marionette	INFO	Listening on port 49529
+1614543152395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614543172551	Marionette	INFO	Stopped listening on port 49529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614543187095	geckodriver	INFO	Listening on 127.0.0.1:49644
+1614543190129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilej2gc69"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614543192721	Marionette	INFO	Listening on port 49652
+1614543192812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614543199464	Marionette	INFO	Stopped listening on port 49652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614543542930	geckodriver	INFO	Listening on 127.0.0.1:49825
+1614543545999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileAOOsC0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614543548461	Marionette	INFO	Listening on port 49833
+1614543548685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614543563823	Marionette	INFO	Stopped listening on port 49833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614543584446	geckodriver	INFO	Listening on 127.0.0.1:49956
+1614543587512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileRbyijG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614543590116	Marionette	INFO	Listening on port 49964
+1614543590194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cheapflightsfares.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cheapflightsfares.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cheapflightsfares.com"
+1614544967453	Marionette	INFO	Stopped listening on port 49964
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ion
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614543734021	Marionette	INFO	Stopped listening on port 50158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614544456795	geckodriver	INFO	Listening on 127.0.0.1:50319
+1614544459846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofile3Q4UCA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614544461960	Marionette	INFO	Listening on port 50327
+1614544462030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1614544963816	Marionette	INFO	Stopped listening on port 50327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilez7h5V3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614544649945	Marionette	INFO	Listening on port 50499
+1614544650286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1614544965826	Marionette	INFO	Stopped listening on port 50499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614544971185	geckodriver	INFO	Listening on 127.0.0.1:50662
+1614544974254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilea51sHf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614544976546	Marionette	INFO	Listening on port 50670
+1614544976906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614544997139	Marionette	INFO	Stopped listening on port 50670
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614545183634	geckodriver	INFO	Listening on 127.0.0.1:50828
+1614545186721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileUoekHe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545188798	Marionette	INFO	Listening on port 50836
+1614545188871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614545204359	Marionette	INFO	Stopped listening on port 50836
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614545259572	geckodriver	INFO	Listening on 127.0.0.1:50953
+1614545262621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileSusKoQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545264900	Marionette	INFO	Listening on port 50961
+1614545265301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614545288696	Marionette	INFO	Stopped listening on port 50961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614545572709	geckodriver	INFO	Listening on 127.0.0.1:51134
+1614545575763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofiletqehtu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545577854	Marionette	INFO	Listening on port 51142
+1614545577941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546164119	Marionette	INFO	Stopped listening on port 51142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileQHuSFG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545782460	Marionette	INFO	Listening on port 51273
+1614545782898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546162626	Marionette	INFO	Stopped listening on port 51273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileq6AYmo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545904868	Marionette	INFO	Listening on port 51404
+1614545905139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546161106	Marionette	INFO	Stopped listening on port 51404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilexZZfvj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614545939177	Marionette	INFO	Listening on port 51527
+1614545939528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546159600	Marionette	INFO	Stopped listening on port 51527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileQllymD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546003537	Marionette	INFO	Listening on port 51658
+1614546003973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546158111	Marionette	INFO	Stopped listening on port 51658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileF9twzL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546060114	Marionette	INFO	Listening on port 51789
+1614546060438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546157125	Marionette	INFO	Stopped listening on port 51789
+1614546172561	geckodriver	INFO	Listening on 127.0.0.1:51924
+1614546175612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofile0MI9x5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546177868	Marionette	INFO	Listening on port 51932
+1614546178299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546970580	Marionette	INFO	Stopped listening on port 51932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileEgNmzv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546281094	Marionette	INFO	Listening on port 52059
+1614546281482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546303571	Marionette	INFO	Stopped listening on port 52059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614546363889	geckodriver	INFO	Listening on 127.0.0.1:52182
+1614546366948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileDBN67J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546369108	Marionette	INFO	Listening on port 52190
+1614546369630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546394645	Marionette	INFO	Stopped listening on port 52190
+1614546398677	geckodriver	INFO	Listening on 127.0.0.1:52310
+1614546401743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileOKYe4p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546404036	Marionette	INFO	Listening on port 52318
+1614546404428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546416416	Marionette	INFO	Stopped listening on port 52318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614546726763	geckodriver	INFO	Listening on 127.0.0.1:52464
+1614546729817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileUsaKWe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546732176	Marionette	INFO	Listening on port 52472
+1614546732510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546969324	Marionette	INFO	Stopped listening on port 52472
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileOataaV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546791991	Marionette	INFO	Listening on port 52592
+1614546792390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546967958	Marionette	INFO	Stopped listening on port 52592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileTgdtPr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546830971	Marionette	INFO	Listening on port 52718
+1614546831384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546966600	Marionette	INFO	Stopped listening on port 52718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofiletxXYNg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614546891945	Marionette	INFO	Listening on port 52849
+1614546892245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614546965058	Marionette	INFO	Stopped listening on port 52849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614547003540	geckodriver	INFO	Listening on 127.0.0.1:53009
+1614547006628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileWf0AjV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547008724	Marionette	INFO	Listening on port 53017
+1614547008789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614547022391	Marionette	INFO	Stopped listening on port 53017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614547037943	geckodriver	INFO	Listening on 127.0.0.1:53129
+1614547040987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileSz6XcK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547043158	Marionette	INFO	Listening on port 53137
+1614547043663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614547060571	Marionette	INFO	Stopped listening on port 53137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614547208741	geckodriver	INFO	Listening on 127.0.0.1:53255
+1614547211835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileIT7caI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547213975	Marionette	INFO	Listening on port 53263
+1614547214508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1614547584796	Marionette	INFO	Stopped listening on port 53263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilev10KAb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547393790	Marionette	INFO	Listening on port 53408
+1614547394243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614547582677	Marionette	INFO	Stopped listening on port 53408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileDqmJIo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547434602	Marionette	INFO	Listening on port 53532
+1614547434878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614547586192	Marionette	INFO	Stopped listening on port 53532
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileHdtbHq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547514703	Marionette	INFO	Listening on port 53665
+1614547514911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614547587893	Marionette	INFO	Stopped listening on port 53665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614547736975	geckodriver	INFO	Listening on 127.0.0.1:53787
+1614547740029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilehBhVRJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547742399	Marionette	INFO	Listening on port 53795
+1614547742703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548168871	Marionette	INFO	Stopped listening on port 53795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofile6kMz2z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547800339	Marionette	INFO	Listening on port 53916
+1614547800678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548167425	Marionette	INFO	Stopped listening on port 53916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileJxnM8Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614547996661	Marionette	INFO	Listening on port 54068
+1614547996894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548166243	Marionette	INFO	Stopped listening on port 54068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilebzMcCm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548044597	Marionette	INFO	Listening on port 54198
+1614548044992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548054823	Marionette	INFO	Stopped listening on port 54198
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614548129287	geckodriver	INFO	Listening on 127.0.0.1:54318
+1614548132354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileZNgHgi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548134851	Marionette	INFO	Listening on port 54328
+1614548135050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548162414	Marionette	INFO	Stopped listening on port 54328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614548459903	geckodriver	INFO	Listening on 127.0.0.1:54625
+1614548462986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilessPBoQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548465319	Marionette	INFO	Listening on port 54633
+1614548465672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548483825	Marionette	INFO	Stopped listening on port 54633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614548527764	geckodriver	INFO	Listening on 127.0.0.1:54765
+1614548530814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofilej8ilyR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548533241	Marionette	INFO	Listening on port 54774
+1614548533474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548549538	Marionette	INFO	Stopped listening on port 54774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614548611789	geckodriver	INFO	Listening on 127.0.0.1:54934
+1614548614855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileEi3oPw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548617080	Marionette	INFO	Listening on port 54942
+1614548617525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+1614548692874	Marionette	INFO	Stopped listening on port 54942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614548806008	geckodriver	INFO	Listening on 127.0.0.1:55071
+1614548809100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hsire\\AppData\\Local\\Temp\\rust_mozprofileUwAmq7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548811290	Marionette	INFO	Listening on port 55079
+1614548811782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cheapflightsfares.com/resources/js/signup.js?04062020, line 13: ReferenceError: myapp is not defined
+JavaScript error: https://prod.benchmarkemail.com/tracker.bundle.js, line 1: TypeError: document.body is null
+JavaScript warning: https://www.cheapflightsfares.com/resources/js/listing.js?V=223235, line 182: unreachable code after return statement
+1614548830421	Marionette	INFO	Stopped listening on port 55079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
